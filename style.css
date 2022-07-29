@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:#cbf0ff;
+}
+
+h1{
+  color:#ff4015;
+}
+h3{
+  color:#864ffe;
+}
+
+h1:hover{
+  color:hotpink;
+}
